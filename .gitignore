@@ -416,3 +416,35 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# OS / Editor junk
+
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*~
+
+# Jekyll build
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+#Bundler / Ruby
+
+vendor/
+.bundle/
+Gemfile.lock
+
+# Node (if using npm for assets)
+
+node_modules/
+npm-debug.log
+
+# VS Code / IDEs
+
+.vscode/
+.idea/
