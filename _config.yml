@@ -1,0 +1,11 @@
+title: "langdoc-minawao Project"
+theme: minima
+
+# Navigation bar
+header_pages:
+  - index.md
+  - about.md
+  - streams.md
+  - team.md
+
+show_excerpts: true
