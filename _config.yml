@@ -1,5 +1,5 @@
 title: "langdoc-minawao Project"
-theme: minima
+theme: jekyll-theme-minima
 
 # Navigation bar
 header_pages:
