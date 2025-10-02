@@ -1,11 +1,11 @@
-title: "langdoc-minawao Project"
+
 theme: jekyll-theme-minima
 
 # Navigation bar
-header_pages:
-  - index.md
-  - about.md
-  - streams.md
-  - team.md
+# header_pages:
+  # - index.md
+  #- about.md
+  #- streams.md
+  #- team.md
 
-show_excerpts: true
+#show_excerpts: true

@@ -1,6 +1,5 @@
 ---
-title: "LangDoc in Minawao - Home"
-layout: default
+layout: home
 ---
 
 
