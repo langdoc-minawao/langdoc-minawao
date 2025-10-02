@@ -24,14 +24,14 @@ See our [Team page](team.md) — diverse, international, interdisciplinary.
 
 ---
 
-## 💬 Join the conversation
+## 💬 Join the conversation - UPCOMING (don't click, it won't work!)
 - [GitHub Discussions](https://github.com/ORG/project-meta/discussions)  
 - [Issues tracker](https://github.com/ORG/project-meta/issues)  
 - Contribute by reading our [Guide](https://github.com/ORG/project-meta/blob/main/CONTRIBUTING.md)
 
 ---
 
-## 📅 Latest updates
+## 📅 Latest updates - UPCOMING (don't click, it won't work!)
 Check our [Roadmap](https://github.com/ORG/project-meta/projects)  
 and announcements in Discussions → **Announcements**.
 
