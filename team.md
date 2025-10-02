@@ -24,4 +24,4 @@ Meet our international and interdisciplinary team.
 - **Harpal Punia** — Hardware Advisor & donor 
 
 ---
-_Add your bio, role, and links here!_
+
