@@ -1,4 +1,4 @@
-# 🌍 Welcome to the Project "Documentation of Chinene and Dghwede in the language ecology of the UNHCR camp of Minawao, Cameroon"
+# 🗣️🌎 Welcome to the Project "Documentation of Chinene and Dghwede in the language ecology of the UNHCR camp of Minawao, Cameroon"
 
 A collaborative, multi-stream research initiative bringing together  
 **fieldwork, data, analysis, tools, and outreach.**
