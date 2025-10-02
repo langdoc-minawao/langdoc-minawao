@@ -19,14 +19,14 @@ See our [Team page](team.md) — diverse, international, interdisciplinary.
 
 ---
 
-## 💬 Join the conversation - UPCOMING (don't click, it won't work!)
+## 💬 Join the conversation
 - [GitHub Discussions](https://github.com/langdoc-minawao/project-meta/discussions)  
 - [Issues tracker](https://github.com/langdoc-minawao/project-meta/issues)  
 - Contribute by reading our [Guide](https://github.com/langdoc-minawao/project-meta/blob/main/CONTRIBUTING.md)
 
 ---
 
-## 📅 Latest updates - UPCOMING (don't click, it won't work!)
+## 📅 Latest updates
 Check our [Roadmap](https://github.com/langdoc-minawao/project-meta/projects)  
 and announcements in Discussions → **Announcements**.
 
