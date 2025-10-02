@@ -6,11 +6,11 @@ A collaborative, multi-stream research initiative bringing together
 ---
 
 ## 🔗 Explore our project streams
-- 📊 [Data](https://github.com/ORG/project-data)  
-- 🧮 [Analysis](https://github.com/ORG/project-analysis)  
-- 📝 [Protocols](https://github.com/ORG/project-protocols)  
-- 🌐 [Website / communications](https://github.com/ORG/project-website)  
-- 🧰 [Tools](https://github.com/ORG/project-tools)
+- 🤝 [Fieldwork ethics](https://github.com/langdoc-minawao/field-ethics)  
+- 🛜 [IIAB outreach](https://github.com/langdoc-minawao/iiab-outreach)  
+- 🔗 [Nextcloud for collaborative documentation work](https://github.com/langdoc-minawao/field-nextcloud)  
+- 📊 [Research & Data analysis](https://github.com/langdoc-minawao/data-analysis)  
+- ♨️ [Output](https://github.com/langdoc-minawao/output)
 
 ---
 
@@ -32,4 +32,4 @@ and announcements in Discussions → **Announcements**.
 
 ---
 
-© YEAR ORG Project Team · Licensed under [MIT](LICENSE)
+© 2025 langdoc-minawao Project Team · Licensed under [GNU](LICENSE)
